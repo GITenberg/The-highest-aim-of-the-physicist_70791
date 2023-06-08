@@ -1,0 +1,34 @@
+_repo: The-highest-aim-of-the-physicist_70791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rowland, Henry Augustus
+    alias: Rowland, Henry A.
+    birthdate: 1848
+    deathdate: 1901
+    gutenberg_agent_id: '55927'
+    url: http://www.gutenberg.org/2009/agents/55927
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Augustus_Rowland
+description: '"Address delivered to the Physical Society of America by the President,
+  at its meeting in New York, October 28, 1899."'
+gutenberg_issued: '2023-05-18'
+identifiers:
+  gutenberg: '70791'
+language: en
+pgterms:marc904: https://www.jstor.org/stable/1627046
+pgterms:marc905: 20230507064414rowland
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by JSTOR
+  Digital Library.)
+publication_note: '  $aUnited States :$bAmerican Association for the Advancement of
+  Science, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physics'
+- !lcc 'QC'
+- GITenberg
+title: The highest aim of the physicist
+url: http://www.gutenberg.org/ebooks/70791
