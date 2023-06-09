@@ -1,5 +1,8 @@
 _repo: The-highest-aim-of-the-physicist_70791
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rowland, Henry Augustus
@@ -11,6 +14,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Henry_Augustus_Rowland
 description: '"Address delivered to the Physical Society of America by the President,
   at its meeting in New York, October 28, 1899."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70791#The-highest-aim-of-the-physicist
 gutenberg_issued: '2023-05-18'
 identifiers:
   gutenberg: '70791'
